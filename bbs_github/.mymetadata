@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="bbs_github"
+  id="myeclipse.1453049236183"
+  context-root="/bbs_github"
+  j2ee-spec="6.0"
+  archive="bbs_github.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
